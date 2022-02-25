@@ -1,0 +1,13 @@
+D:\E Drive\Project2020-2021\Project-2020\Project_2021\SecureForensicData\SecureForensicData\bin\SecureForensicData.dll
+D:\E Drive\Project2020-2021\Project-2020\Project_2021\SecureForensicData\SecureForensicData\bin\SecureForensicData.pdb
+D:\E Drive\Project2020-2021\Project-2020\Project_2021\SecureForensicData\SecureForensicData\bin\MySql.Data.dll
+D:\E Drive\Project2020-2021\Project-2020\Project_2021\SecureForensicData\SecureForensicData\bin\Sha2.dll
+D:\E Drive\Project2020-2021\Project-2020\Project_2021\SecureForensicData\SecureForensicData\obj\Debug\SecureForensicData.dll
+D:\E Drive\Project2020-2021\Project-2020\Project_2021\SecureForensicData\SecureForensicData\obj\Debug\SecureForensicData.pdb
+F:\FinalProjectNIE_IS\FinalProjectNIE_IS\SecureForensicData\SecureForensicData\bin\SecureForensicData.dll
+F:\FinalProjectNIE_IS\FinalProjectNIE_IS\SecureForensicData\SecureForensicData\bin\SecureForensicData.pdb
+F:\FinalProjectNIE_IS\FinalProjectNIE_IS\SecureForensicData\SecureForensicData\bin\MySql.Data.dll
+F:\FinalProjectNIE_IS\FinalProjectNIE_IS\SecureForensicData\SecureForensicData\bin\Sha2.dll
+F:\FinalProjectNIE_IS\FinalProjectNIE_IS\SecureForensicData\SecureForensicData\obj\Debug\SecureForensicData.csprojResolveAssemblyReference.cache
+F:\FinalProjectNIE_IS\FinalProjectNIE_IS\SecureForensicData\SecureForensicData\obj\Debug\SecureForensicData.dll
+F:\FinalProjectNIE_IS\FinalProjectNIE_IS\SecureForensicData\SecureForensicData\obj\Debug\SecureForensicData.pdb

@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SecureForensicData.AddArea" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAEAAAAAgAAAAAAAAABEBAAAAAAIAAIA=</HashCode>
+      <FileName>AddArea.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.AddCrime" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAgAAAAAAAAAAAoAAAAAAAIABABAAIAAAIAAoQ=</HashCode>
+      <FileName>AddCrime.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.AddCrimeCaseLogs" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAgAAAAAAAIgBAhAAIAAAIAAIA=</HashCode>
+      <FileName>AddCrimeCaseLogs.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.AddDoctor" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAgAAAAAAAAAAAgACAAAAAIABAhBAIAAAIgAoQ=</HashCode>
+      <FileName>AddDoctor.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.AddForensicData" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAgAAAAAAAAAAAgAAQAAAAAABAhAAAAAAIAAoA=</HashCode>
+      <FileName>AddForensicData.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.AddForensicStaff" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAgAAAAAAAAAAAgACAAAAAIABAhBAIAAAIgAoQ=</HashCode>
+      <FileName>AddForensicStaff.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.AddHigherOfficer" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAgAAAAAEAAAAAgADAAAAAIABAhBAIAAAIgAoQ=</HashCode>
+      <FileName>AddHigherOfficer.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.AddPoliceStation" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAgAAAAAEAAAAAgACAAAAAYABAhBAIAAAIgAoQ=</HashCode>
+      <FileName>AddPoliceStation.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.AESCryptoClass" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AESCryptoClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.AMHome" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>AMHome.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.ApplicationManager" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>ApplicationManager.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.Doctor" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Doctor.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.DoctorHome" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>DoctorHome.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.DRHO" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAQgAAAAAAAgAAAAAAAAAAABEAAAAAIAAIU=</HashCode>
+      <FileName>DRHO.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.DRPolice" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAQgAAAAAAAgAAAAAAAAAAABEAAAAAIAAIU=</HashCode>
+      <FileName>DRPolice.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.Forensic" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Forensic.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.ForensicHome" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>ForensicHome.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.FSReportGenerate" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAgAAAAAAAAAAAgAAQAAAAAABAhAAAAAAIAAoA=</HashCode>
+      <FileName>FSReportGenerate.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.FSRHO" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABgAAQAAAAAAAAgAAAAAAAAAAABEAAAAAIAAIU=</HashCode>
+      <FileName>FSRHO.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.FSRPolice" Collapsed="true">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABgAAQAAAAAAAAgAAAAAAAAAAABEAAAAAIAAIU=</HashCode>
+      <FileName>FSRPolice.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.HO" Collapsed="true">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>HO.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.HODR" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgCAAgAAAQAAAAAAAgQAQAAAAAAAAhAAAAAAIgAIA=</HashCode>
+      <FileName>HODR.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.HOHome" Collapsed="true">
+    <Position X="2.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>HOHome.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.HOVFSR" Collapsed="true">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgCAAgAAAQAAAAAAAgQAQAAAAAAAAhAAAAAAIgAIA=</HashCode>
+      <FileName>HOVFSR.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.HOViewCaseSummary" Collapsed="true">
+    <Position X="5.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAQAAAAAAAAgAAAAAAAAgAABEAAAAAIAAIU=</HashCode>
+      <FileName>HOViewCaseSummary.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.HOViewCrime" Collapsed="true">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgCAAgAAAQAAAAAAAgQAQAAAAAAAAhAAAAAAIgAIA=</HashCode>
+      <FileName>HOViewCrime.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.index" Collapsed="true">
+    <Position X="9.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>index.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.Login" Collapsed="true">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgAAAAgAAAgAEAAgAAAAAAAIAAACAAJAAAAAAJAAoA=</HashCode>
+      <FileName>Login.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.MedicalReportGenerate" Collapsed="true">
+    <Position X="2.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAgAAAAAAAAAAAgAAQAAAAAABAhAAAAAAIAAoA=</HashCode>
+      <FileName>MedicalReportGenerate.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.Police" Collapsed="true">
+    <Position X="4" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Police.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.PoliceStationHome" Collapsed="true">
+    <Position X="5.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>PoliceStationHome.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.PoliceVDR" Collapsed="true">
+    <Position X="7.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgCAAgAAAQAAAAAAAgQAAAAAAAAAAhAAAAAAIgAIA=</HashCode>
+      <FileName>PoliceVDR.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.PoliceVFSR" Collapsed="true">
+    <Position X="9.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgCAAgAAAQAAAAAAAgQAAAAAAAAAAhAAAAAAIgAIA=</HashCode>
+      <FileName>PoliceVFSR.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.SendEmail" Collapsed="true">
+    <Position X="11" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SendEmail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.Sha384mManaged" Collapsed="true">
+    <Position X="5.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIAAAAAAABAAUgAAAAAAAAAAgBAAAABSoICAIMAgAAA=</HashCode>
+      <FileName>Sha256.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.BLL.SFDBLL" Collapsed="true">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAAQJJAAAgBAEBEAAAChhIABAUABAQQAABBGAAAAgA=</HashCode>
+      <FileName>BLL\SFDBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.DAL.SFDDAL" Collapsed="true">
+    <Position X="2.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAQJJAAAgBAEREAAAChxIABAUAJAQQACFBGAACAgA=</HashCode>
+      <FileName>DAL\SFDDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecureForensicData.DTO.SFDDTO" Collapsed="true">
+    <Position X="4" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBAAEIAgiEAAAMAAAAAYBAAACCAASYAjAJQAAAAA=</HashCode>
+      <FileName>DTO\SFDDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RationShopSystem.Landing" Collapsed="true">
+    <Position X="11" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>less\Landing.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
